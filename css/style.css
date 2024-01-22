@@ -45,3 +45,7 @@ section .set div {
     font-weight: 400;
     font-style: normal;
   }
+
+  .carter {
+    min-height: auto;
+  }
